@@ -13,3 +13,6 @@ inoremap [ []<Esc>ha
 inoremap " ""<Esc>ha
 inoremap ' ''<Esc>ha
 inoremap ` ``<Esc>ha
+set noexpandtab
+set tabstop=2
+set shiftwidth=2
